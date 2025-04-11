@@ -8,7 +8,7 @@ Welcome to FaithTrack. We respect your privacy and are committed to protecting y
 
 ## Who We Are
 
-FaithTrack is developed and maintained by an independent developer. If you have any questions about this Privacy Policy or our data practices, please contact us at matthewfbarber@gmai.com.
+FaithTrack is developed and maintained by an independent developer. If you have any questions about this Privacy Policy or our data practices, please contact us at matthewfbarber@gmail.com.
 
 ## Information We Collect
 
